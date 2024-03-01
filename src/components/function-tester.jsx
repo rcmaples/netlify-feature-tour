@@ -40,7 +40,7 @@ function ExerciseFinish() {
     <>
       <h2>You did it!</h2>
       <p>
-        You’ve successfully created your first Netlify Function! Great work!
+        You've successfully created your first Netlify Function! Great work!
       </p>
     </>
   );
